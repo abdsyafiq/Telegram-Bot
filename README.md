@@ -21,7 +21,3 @@ This repository contains Python code for creating a Telegram bot that can be use
 
 - The Telegram bot is built using the [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) framework.
 - Interaction with Google Sheets is facilitated by the [gspread](https://github.com/burnash/gspread) library.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
