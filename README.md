@@ -1,6 +1,6 @@
 # Telegram Bot for Expense Tracking
 
-This repository contains Python code for creating a Telegram bot that can be used to input and calculate expenses. The expense data is stored in Google Sheets.
+This repository contains Python code for communicating with a Telegram bot that can be used to input and calculate expenses. The expense data is stored in Google Sheets.
 
 ## Key Features
 
@@ -13,9 +13,10 @@ This repository contains Python code for creating a Telegram bot that can be use
 
 1. Download or clone this repository into your Python environment.
 2. Make sure you have a Telegram bot token and a JSON key file to access Google Sheets.
-3. Replace the values of `TOKEN` and `BOT_USERNAME` inside the `main.py` file with the appropriate values.
-4. Run the bot by executing the `main.py` file.
-5. Start interacting with your Telegram bot to input and manage your expenses.
+3. Replace the values of `TOKEN` and `BOT_USERNAME` inside the `telegram_key.json` file with the appropriate values.
+4. Replace the values of `google_key.json` file with the appropriate values.
+5. Run the bot by executing the `main.py` file.
+6. Start interacting with your Telegram bot to input and manage your expenses.
 
 ## Credits
 
